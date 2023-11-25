@@ -1,0 +1,13 @@
+c:\users\96777\documents\visual studio 2015\Projects\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\96777\documents\visual studio 2015\Projects\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\96777\documents\visual studio 2015\Projects\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\96777\documents\visual studio 2015\Projects\Hospital\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\96777\documents\visual studio 2015\Projects\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\96777\documents\visual studio 2015\Projects\Hospital\Hospital\obj\Debug\Hospital.pdb
+D:\Projects\Hasan's Team projects\Hasan\Hospital\bin\Debug\Hospital.exe.config
+D:\Projects\Hasan's Team projects\Hasan\Hospital\bin\Debug\Hospital.exe
+D:\Projects\Hasan's Team projects\Hasan\Hospital\bin\Debug\Hospital.pdb
+D:\Projects\Hasan's Team projects\Hasan\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+D:\Projects\Hasan's Team projects\Hasan\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+D:\Projects\Hasan's Team projects\Hasan\Hospital\obj\Debug\Hospital.exe
+D:\Projects\Hasan's Team projects\Hasan\Hospital\obj\Debug\Hospital.pdb
